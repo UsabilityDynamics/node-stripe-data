@@ -1,6 +1,6 @@
 {
   "name": "@udx/stripe-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Handle mapping of RETS objects.",
   "main": "lib/stripe-data.js",
   "scripts": {
